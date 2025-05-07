@@ -1,8 +1,10 @@
-#
 👋 Hi, I’m @stoic-rxhl
 <br>
 👀 I’m interested in web dev, data analytics, machine learning
+<br>
 🌱 I’m currently learning C,C++
-💞️ I’m looking to collaborate on ...
+<br>
 📫 How to reach me from by email
-💪🏻Pronouns: he/him #
+<br>
+💪🏻Pronouns: he/him 
+<br>
